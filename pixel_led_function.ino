@@ -15,7 +15,7 @@
 #include <FastLED.h>
 
 #define LED_PIN 5
-#define NUM_LEDS 10
+#define NUM_LEDS 21
 
 CRGB leds[NUM_LEDS]; // array of CRGB objects
 
